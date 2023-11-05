@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Archaic-Mage'
 theme = 'ficurinia'
 
 
@@ -24,20 +24,20 @@ summaryLength = 50
     homeSinglePage = "/home"
 
     # It's best to put these icons in the "static" folder of your site
-    logo = "/favicon.svg"
-    favicon = "/favicon.png"  # 32x32
-    faviconIco = "/favicon.svg"  # 32x32
-    appletouch = "/favicon.png"  # 180x180
-    svgicon = "/logo.svg"
-    icon512 = "/favicon.png"  # 512x512 png image
+    logo = "/logo1.svg"
+    favicon = "/logo1-fav.png"  # 32x32
+    faviconIco = "/logo1-fav.ico"  # 32x32
+    appletouch = "/logo1-apple-touch.png"  # 180x180
+    svgicon = "/logo1.svg"
+    icon512 = "/logo1-512x512.png"  # 512x512 png image
 
     logoRightOfTitle = false  # positions the logo to the right of the title; default: false
 
     showTags = true  # show the Tags menu item; default true
-    showRss = true  # show the link for the RSS feed; default true
+    showRss = false  # show the link for the RSS feed; default true :TODO: make RSS feed
 
     imageInArticlePreview = false  # show images in article preview; default false
-    fitImageInArticlePreview = false  # make article preview images fit the article preview instead of getting cropped
+    fitImageInArticlePreview = true  # make article preview images fit the article preview instead of getting cropped
     articleSummary = true  # show a summary in article preview; default true
     
     fontFamily = "JetBrains Mono"  # changes the font, default "JetBrains Mono"
@@ -110,8 +110,8 @@ summaryLength = 50
     forceRedirect = false
 
     infiniteScrolling = false  # activates infinite scrolling instead of regular pagination
-    enableFooterColumns = false  # activates footer columns, as described below
-    enableJumbotron = false  # enables jumbotron, as described below
+    enableFooterColumns = true  # activates footer columns, as described below
+    enableJumbotron = true  # enables jumbotron, as described below
     # related articles will be selected randomly based on tags and shown at
     # the bottom of the article, after the comments
     enableRelatedArticles = false
@@ -128,6 +128,10 @@ summaryLength = 50
         name = "About"
         url = "/about/"
         weight = 10
+    [[menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "https://drive.google.com/file/d/1h54kgwNehbj1jP33af3A7Gb1EWSYAdXN/view?usp=sharing"
     # these links (menu.icons) will be added as icon links below the main nav
     [[menu.icons]]
         identifier = "github"
