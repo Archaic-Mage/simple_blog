@@ -1,10 +1,19 @@
-<div class="postlist">
-    <div class="card postlistitem">
-        <article class="skills">
-            <h2>Skills</h2>
-            <img src="/cpp3-svgrepo-com.svg" alt="cpp" />
-            <img src="/python.svg" alt="python" />
-        </article>
+{{if (.Site.Data.skills)}}
+    <div class="postlistitem card">
+        <h2> Skills </h2>
+        {{ range .Site.Data.skills }}
+        {{ if (.title) }}
+        <h4> {{ .title }} </h4>
+        {{end}}
+            <div class='skills'>
+                {{ range .skills }}
+                    <div class='skill'>
+                        <img src="/{{.src}}" alt="{{ .name }}" />
+                        <br>{{ .name }}
+                    </div>
+                {{end}}
+            </div>
+        {{end}}
     </div>
-</div>
-<hr />
+    <hr />
+{{end}}

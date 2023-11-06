@@ -124,11 +124,6 @@ summaryLength = 50
     # the folder it will look into can be customized with the pages variable
     # in params above
     [[menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
-        weight = 10
-    [[menu.main]]
         identifier = "resume"
         name = "Resume"
         url = "https://drive.google.com/file/d/1h54kgwNehbj1jP33af3A7Gb1EWSYAdXN/view?usp=sharing"

@@ -1,0 +1,20 @@
+- title: Languages
+  skills:
+    - name: C++
+      src: cpp3-svgrepo-com.svg 
+    - name: C
+      src: c.svg
+    - name: Python
+      src: python.svg
+    - name: Java
+      src: java.svg
+    - name: Rust
+      src: rust.png
+    - name: JavaScript
+      src: javascript.svg
+- title: Database
+  skills:
+    - name: MongoDB
+      src: mongodb.svg
+    - name: MariaDB
+      src: mariadb.png
