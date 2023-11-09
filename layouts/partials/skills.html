@@ -1,19 +1,20 @@
 {{if (.Site.Data.skills)}}
+<div class="postlist">
     <div class="postlistitem card">
         <h2> Skills </h2>
         {{ range .Site.Data.skills }}
         {{ if (.title) }}
         <h4> {{ .title }} </h4>
         {{end}}
-            <div class='skills skillgrid'>
-                {{ range .skills }}
-                    <div class='skill'>
-                        <img src="/{{.src}}" alt="{{ .name }}" />
-                        <br>{{ .name }}
-                    </div>
-                {{end}}
+        <div class='skills skillgrid'>
+            {{ range .skills }}
+            <div class='skill'>
+                <img src="/{{.src}}" alt="{{ .name }}" />
+                <br>{{ .name }}
             </div>
+            {{end}}
+        </div>
         {{end}}
     </div>
-    <hr />
+</div>
 {{end}}

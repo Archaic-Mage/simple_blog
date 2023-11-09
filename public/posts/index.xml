@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Archaic-Mage</title>
+    <link>file:///home/mage/Documents/blog_site/public/posts/</link>
+    <description>Recent content in Posts on Archaic-Mage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Nov 2023 02:51:45 +0530</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 15:19:09 +0530</lastBuildDate>
+    <atom:link href="file:///home/mage/Documents/blog_site/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Program Analysis</title>
+      <link>file:///home/mage/Documents/blog_site/public/posts/program-analysis/</link>
+      <pubDate>Mon, 06 Nov 2023 15:19:09 +0530</pubDate>
+      <guid>file:///home/mage/Documents/blog_site/public/posts/program-analysis/</guid>
+      <description>Jan-May 2023 | In this project, I build three major program analysis tools for a mini-java (qparjava) language whose grammar can be found here
+Alias Analysis: Alias analysis is a technique used in programming languages and compilers to determine if two or more pointers or references in a program can refer to the same memory location.</description>
+    </item>
     <item>
       <title>Some</title>
-      <link>https://example.org/posts/some/</link>
+      <link>file:///home/mage/Documents/blog_site/public/posts/some/</link>
       <pubDate>Sun, 05 Nov 2023 02:51:45 +0530</pubDate>
-      <guid>https://example.org/posts/some/</guid>
+      <guid>file:///home/mage/Documents/blog_site/public/posts/some/</guid>
       <description>Lauren Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://example.org/posts/test/</link>
+      <link>file:///home/mage/Documents/blog_site/public/posts/test/</link>
       <pubDate>Sun, 05 Nov 2023 02:40:31 +0530</pubDate>
-      <guid>https://example.org/posts/test/</guid>
+      <guid>file:///home/mage/Documents/blog_site/public/posts/test/</guid>
       <description>Hello This is some testing
 #include &amp;lt;bits/stdc++.h&amp;gt; using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; endl; return 0; } Helo
 heo ohpsohf ohphospocmsfi

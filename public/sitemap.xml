@@ -2,24 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>file:///home/mage/Documents/blog_site/public/</loc>
+    <lastmod>2023-11-06T15:19:09+05:30</lastmod>
+  </url><url>
+    <loc>file:///home/mage/Documents/blog_site/public/posts/</loc>
+    <lastmod>2023-11-06T15:19:09+05:30</lastmod>
+  </url><url>
+    <loc>file:///home/mage/Documents/blog_site/public/posts/program-analysis/</loc>
+    <lastmod>2023-11-06T15:19:09+05:30</lastmod>
+  </url><url>
+    <loc>file:///home/mage/Documents/blog_site/public/showcase/about/</loc>
+    <lastmod>2023-11-05T17:51:36+05:30</lastmod>
+  </url><url>
+    <loc>file:///home/mage/Documents/blog_site/public/showcase/</loc>
+    <lastmod>2023-11-05T17:51:36+05:30</lastmod>
+  </url><url>
+    <loc>file:///home/mage/Documents/blog_site/public/posts/some/</loc>
     <lastmod>2023-11-05T02:51:45+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2023-11-05T02:51:45+05:30</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/some/</loc>
-    <lastmod>2023-11-05T02:51:45+05:30</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/test/</loc>
+    <loc>file:///home/mage/Documents/blog_site/public/posts/test/</loc>
     <lastmod>2023-11-05T02:40:31+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>file:///home/mage/Documents/blog_site/public/categories/</loc>
   </url><url>
-    <loc>https://example.org/manifest/index.json</loc>
+    <loc>file:///home/mage/Documents/blog_site/public/manifest/index.json</loc>
   </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>file:///home/mage/Documents/blog_site/public/search/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>file:///home/mage/Documents/blog_site/public/tags/</loc>
   </url>
 </urlset>

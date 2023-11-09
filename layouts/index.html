@@ -5,6 +5,7 @@
     {{ $allPostsList := where (where site.RegularPages "Section" "in" $postsDir) "Section" "!=" "" }}
     {{- partial "showcase.html" . -}}
     {{- partial "skills.html" . -}}
+    {{- partial "experience.html" . -}}
     {{ if and .Site.Params.showSinglePageAsHome (ne .Site.Params.homeSinglePage "") }}
         {{ with .Site.GetPage .Site.Params.homeSinglePage }}
             {{- partial "single_post.html" . -}}

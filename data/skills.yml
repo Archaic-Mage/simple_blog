@@ -12,9 +12,25 @@
       src: rust.png
     - name: JavaScript
       src: javascript.svg
+    - name: Lua
+      src: lua.svg
 - title: Database
   skills:
     - name: MongoDB
       src: mongodb.svg
     - name: MariaDB
       src: mariadb.png
+    - name: MySQL
+      src: mysql.svg
+- title: Software Modules
+  skills:
+    - name: Git
+      src: git.svg
+    - name: Github
+      src: github.svg
+    - name: OpenMPI
+      src: openmpi.png
+    - name: Bash
+      src: bash.svg
+    - name: ExpressJS
+      src: expressjs.svg
