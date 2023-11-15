@@ -1,0 +1,12 @@
+- job_title: Software Developer Intern
+  company: AlphaGrep Securities
+  duration: May 2023 - July 2023
+  details:
+    - p: Devised an automated deployment program for binaries and config changes, enhancing the speed from 40 to 10 seconds. 
+    - p: Designed a web-based GUI for setting the deployment parameters and schedule information. 
+- job_title: Software Engineering Virtual Experience
+  company: Forage (JP Morgan Chase & Co.)
+  duration: April 2022 - June 2022
+  details:
+    - p: Programmed an interface with stock price data feed and built a system to display the data visually for the traders. 
+    - p: Done job deligiently

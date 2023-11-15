@@ -27,7 +27,7 @@
     - name: Git
       src: git.svg
     - name: Github
-      src: github.svg
+      src: github.png
     - name: OpenMPI
       src: openmpi.png
     - name: Bash

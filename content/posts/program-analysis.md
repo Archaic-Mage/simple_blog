@@ -4,9 +4,10 @@ date = 2023-11-06T15:19:09+05:30
 draft = false
 image = '/program_analysis.jpg'
 featured = true
+tags = ["Java", "MHP", "Compiler", "Optimizations"]
 +++
 
-Jan-May 2023 | [![github](/link.png)](https://github.com/Archaic-Mage/Parallel_Program_Analysis)
+Jan-May 2023 | [![github](/github.png)](https://github.com/Archaic-Mage/Parallel_Program_Analysis)
 
 In this project, I build three major program analysis tools for a mini-java (qparjava) language whose grammar can be found [here](http://www.cse.iitm.ac.in/~krishna/cs6235/qparjava.html)
 
