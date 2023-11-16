@@ -8,8 +8,12 @@ theme = 'ficurinia'
 paginate = 5
 summaryLength = 50
 
+[params.author]
+    name = "Soham Tripathy"
+    email = "sohasoham811@gmail.com"
+
 [params]
-    author = "Soham Tripathy"
+    name = "Soham Tripathy"
     description = "A description for my website"  # this will be added as metadata
 
     posts = "posts"  # content directory where to find home page posts; default searches in "posts" and "post"
