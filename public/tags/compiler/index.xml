@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compiler on Archaic-Mage</title>
+    <link>https://archaic-mage.vercel.app/tags/compiler/</link>
+    <description>Recent content in Compiler on Archaic-Mage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sohasoham811@gmail.com (Soham Tripathy)</managingEditor>
+    <webMaster>sohasoham811@gmail.com (Soham Tripathy)</webMaster>
+    <lastBuildDate>Wed, 06 Dec 2023 13:22:51 +0530</lastBuildDate>
+    <atom:link href="https://archaic-mage.vercel.app/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Java Compiler</title>
+      <link>https://archaic-mage.vercel.app/posts/mini-java-compiler/</link>
+      <pubDate>Wed, 06 Dec 2023 13:22:51 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
+      <guid>https://archaic-mage.vercel.app/posts/mini-java-compiler/</guid>
+      <description>Jul-Nov 2022 | Built a fundamental compiler to parse, validate and generate IR for a miniature version of Java language. Adapted a few compiler optimization techniques to improve the execution speed by 1%-2%. </description>
+    </item>
+    <item>
+      <title>Program Analysis</title>
+      <link>https://archaic-mage.vercel.app/posts/program-analysis/</link>
+      <pubDate>Mon, 06 Nov 2023 15:19:09 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
+      <guid>https://archaic-mage.vercel.app/posts/program-analysis/</guid>
+      <description>Jan-May 2023 | In this project, I build three major program analysis tools for a mini-java (qparjava) language whose grammar can be found here
+Alias Analysis: Alias analysis is a technique used in programming languages and compilers to determine if two or more pointers or references in a program can refer to the same memory location.</description>
+    </item>
+  </channel>
+</rss>

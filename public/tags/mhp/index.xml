@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHP on Archaic-Mage</title>
+    <link>https://archaic-mage.vercel.app/tags/mhp/</link>
+    <description>Recent content in MHP on Archaic-Mage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sohasoham811@gmail.com (Soham Tripathy)</managingEditor>
+    <webMaster>sohasoham811@gmail.com (Soham Tripathy)</webMaster>
+    <lastBuildDate>Mon, 06 Nov 2023 15:19:09 +0530</lastBuildDate>
+    <atom:link href="https://archaic-mage.vercel.app/tags/mhp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Program Analysis</title>
+      <link>https://archaic-mage.vercel.app/posts/program-analysis/</link>
+      <pubDate>Mon, 06 Nov 2023 15:19:09 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
+      <guid>https://archaic-mage.vercel.app/posts/program-analysis/</guid>
+      <description>Jan-May 2023 | In this project, I build three major program analysis tools for a mini-java (qparjava) language whose grammar can be found here
+Alias Analysis: Alias analysis is a technique used in programming languages and compilers to determine if two or more pointers or references in a program can refer to the same memory location.</description>
+    </item>
+  </channel>
+</rss>
