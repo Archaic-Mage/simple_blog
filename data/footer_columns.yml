@@ -1,14 +1,24 @@
+- title: Linux
+  links:
+    - title: NVIM
+      link: https://github.com/Archaic-Mage/nvim 
+    - title: Setup (Ubuntu)
+      link: https://github.com/Archaic-Mage/Linux_Setup.git 
+    - title: Cpp Setup 
+      link: https://github.com/Archaic-Mage/cpp_setup.git
 - title: Projects
   links:
-    - title: HydraPaper
-      link: https://hydrapaper.gabmus.org
-    - title: Ada UI
-      link: https://gitlab.com/gabmus/ada-ui
-- title: About me
+    - title: Blog (source)
+      link: https://github.com/Archaic-Mage/simple_blog
+    - title: Shortest Path (MPI)
+      link: https://github.com/Archaic-Mage/MPI_Shortest_Path
+    - title: Sorting Visualizer
+      link: https://github.com/Archaic-Mage/Sorting_Alogorithm_Visualizer
+- title: About Me
   links:
-    - title: My personal website
-      link: https://gabmus.org
-    - title: My GitLab
-      link: https://gitlab.com/gabmus
-    - title: My GNOME GitLab
-      link: https://gitlab.gnome.org/gabmus
+    - title: Website
+      link: https://archaic-mage.vercel.app
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/archaic-mage
+    - title: Youtube
+      link: https://www.youtube.com/@archaicmage 

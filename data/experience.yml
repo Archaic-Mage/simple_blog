@@ -1,3 +1,11 @@
+- job_title: System Software Developer
+  company: IMC Trading
+  duration: Upcoming
+  details:
+    - p: Develop cutting-edge technology in advanced networks and algorithms
+    - p: Support the development of our trading platform and software stack
+    - p: Gain experience across the entire software development lifecycle
+    - p: Collaborate with traders, quants and hardware engineers to improve our systems
 - job_title: Software Developer Intern
   company: AlphaGrep Securities
   duration: May 2023 - July 2023
@@ -9,4 +17,3 @@
   duration: April 2022 - June 2022
   details:
     - p: Programmed an interface with stock price data feed and built a system to display the data visually for the traders. 
-    - p: Done job deligiently

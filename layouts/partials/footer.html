@@ -1,0 +1,15 @@
+<footer>
+    <hr />
+    {{- partial "inject/footer.html" . -}}
+    {{- partial "footer_columns.html" . -}}
+    <p>
+    <small>
+        &copy; {{ .Site.Copyright | markdownify }} {{ now.Format "2006" }} | Soham Tripathy 
+    </small>
+    <small class="md:float-right">| 
+        <a href='https://gitlab.com/gabmus/hugo-ficurinia'>Ficurinia theme</a> | 
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> |
+        <a href="https://www.vecteezy.com/free-vector/am-logo"> AM Logo Vectors by Vecteezy</a>
+    </small>
+    </p>
+</footer>
