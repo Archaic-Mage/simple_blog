@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
         
-        <link type="text/css" rel="stylesheet" href="file://home/mage/Documents/blog_site/public/css/styles.5f61282827b50ac8ba717b0394655edef4d0c4b0b38ac2d9eeb5f55f161f030af16021ae7d2603cb08e374cc4f9cb8f3fdc389cfe3d1c819a58371c1047ed8a5.css" integrity="sha512-X2EoKCe1Csi6cXsDlGVe3vTQxLCzisLZ7rX1XxYfAwrxYCGufSYDywjjdMxPnLjz/cOJz+PRyBmlg3HBBH7YpQ==" />
+        <link type="text/css" rel="stylesheet" href="/archaic-mage.vercel.app/css/styles.80fde45f56e5cb85c5927feff24a3b46a9f2f1e12702b4f5f1f2b6afcadfa499500e89ac35cf804d37893a53d459cc77ea0232fd04272ea533fab40e10a96fd1.css" integrity="sha512-gP3kX1bly4XFkn/v8ko7Rqny8eEnArT18fK2r8rfpJlQDomsNc+ATTeJOlPUWcx36gIy/QQnLqUz+rQOEKlv0Q==" />
         <style>
           .aboutfeeds {
             margin: 24px 0; padding: 12px;

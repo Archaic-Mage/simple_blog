@@ -1,4 +1,4 @@
-baseURL = 'archaic-mage.vercel.app'
+baseURL = 'https://archaic-mage.vercel.app'
 languageCode = 'en-us'
 title = 'Archaic-Mage'
 theme = 'ficurinia'

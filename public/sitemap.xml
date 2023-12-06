@@ -2,33 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>file:///home/mage/Documents/blog_site/public/</loc>
+    <loc>archaic-mage.vercel.app/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/c&#43;&#43;/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/cache/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/pipeline/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/posts/pipeline-processor/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/posts/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/processor/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/x86/</loc>
+    <lastmod>2023-12-06T18:33:35+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/dns/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/gbn/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/ip/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/posts/network-protocols/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/ospf/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/tcp/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/udp/</loc>
+    <lastmod>2023-12-06T14:19:27+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/compiler/</loc>
+    <lastmod>2023-12-06T13:22:51+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/java/</loc>
+    <lastmod>2023-12-06T13:22:51+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/jdk/</loc>
+    <lastmod>2023-12-06T13:22:51+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/posts/mini-java-compiler/</loc>
+    <lastmod>2023-12-06T13:22:51+05:30</lastmod>
+  </url><url>
+    <loc>archaic-mage.vercel.app/tags/mhp/</loc>
     <lastmod>2023-11-06T15:19:09+05:30</lastmod>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/posts/</loc>
+    <loc>archaic-mage.vercel.app/tags/optimizations/</loc>
     <lastmod>2023-11-06T15:19:09+05:30</lastmod>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/posts/program-analysis/</loc>
+    <loc>archaic-mage.vercel.app/posts/program-analysis/</loc>
     <lastmod>2023-11-06T15:19:09+05:30</lastmod>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/showcase/about/</loc>
+    <loc>archaic-mage.vercel.app/showcase/about/</loc>
     <lastmod>2023-11-05T17:51:36+05:30</lastmod>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/showcase/</loc>
+    <loc>archaic-mage.vercel.app/showcase/</loc>
     <lastmod>2023-11-05T17:51:36+05:30</lastmod>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/posts/some/</loc>
-    <lastmod>2023-11-05T02:51:45+05:30</lastmod>
+    <loc>archaic-mage.vercel.app/categories/</loc>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/posts/test/</loc>
-    <lastmod>2023-11-05T02:40:31+05:30</lastmod>
+    <loc>archaic-mage.vercel.app/manifest/index.json</loc>
   </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/categories/</loc>
-  </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/manifest/index.json</loc>
-  </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/search/</loc>
-  </url><url>
-    <loc>file:///home/mage/Documents/blog_site/public/tags/</loc>
+    <loc>archaic-mage.vercel.app/search/</loc>
   </url>
 </urlset>

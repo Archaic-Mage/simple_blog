@@ -13,26 +13,14 @@
     
         
         
-            
-                
-            
-        
         
     
         
         
         
     
-        
-        
-        
-    
-        
-        
-        
-    
-    "articles": [{"date":"2023-11-05","image":"/yor.jpg","imageAlt":"","link":"file:///home/mage/Documents/blog_site/public/posts/some/","summary":"Lauren Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\u0026rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.","tags":[],"title":"Some"},{"date":"2023-11-05","image":"","imageAlt":"","link":"file:///home/mage/Documents/blog_site/public/posts/test/","summary":"Hello This is some testing\n#include \u0026lt;bits/stdc++.h\u0026gt; using namespace std; int main() { cout \u0026lt;\u0026lt; \u0026#34;Hello World\u0026#34; \u0026lt;\u0026lt; endl; return 0; } Helo\nheo ohpsohf ohphospocmsfi\nsoihf ohpsi ","tags":[],"title":"Test"},{"date":"0001-01-01","image":"","imageAlt":"","link":"file:///home/mage/Documents/blog_site/public/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"file:///home/mage/Documents/blog_site/public/search/","summary":"","tags":[],"title":"Search"}],
-    "test": "Some   Test   Manifest   Search   ",
+    "articles": [{"date":"0001-01-01","image":"","imageAlt":"","link":"archaic-mage.vercel.app/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"archaic-mage.vercel.app/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "Manifest   Search   ",
     "page": "1",
     "next": ""
 }
