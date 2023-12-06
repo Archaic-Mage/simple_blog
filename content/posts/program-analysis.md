@@ -2,7 +2,7 @@
 title = 'Program Analysis'
 date = 2023-11-06T15:19:09+05:30
 draft = false
-image = '/program_analysis.jpg'
+image = '/program_analysis.png'
 featured = true
 tags = ["Java", "MHP", "Compiler", "Optimizations"]
 +++
