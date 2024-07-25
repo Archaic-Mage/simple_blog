@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
         
-        <link type="text/css" rel="stylesheet" href="http://localhost:1313/css/styles.0b2539433cda4811cc994d3bf799c77ddddb048cea605dedca1ce1a96a7016d5d1e05d1072d37c377451f0266f659c46ac0ff97cf8211307bff662d79a755398.css" integrity="sha512-CyU5QzzaSBHMmU0795nHfd3bBIzqYF3tyhzhqWpwFtXR4F0QctN8N3RR8CZvZZxGrA/5fPghEwe/9mLXmnVTmA==" />
+        <link type="text/css" rel="stylesheet" href="https://archaic-mage.vercel.app/css/styles.0b2539433cda4811cc994d3bf799c77ddddb048cea605dedca1ce1a96a7016d5d1e05d1072d37c377451f0266f659c46ac0ff97cf8211307bff662d79a755398.css" integrity="sha512-CyU5QzzaSBHMmU0795nHfd3bBIzqYF3tyhzhqWpwFtXR4F0QctN8N3RR8CZvZZxGrA/5fPghEwe/9mLXmnVTmA==" />
         <style>
           .aboutfeeds {
             margin: 24px 0; padding: 12px;
