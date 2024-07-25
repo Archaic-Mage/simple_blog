@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://archaic-mage.vercel.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/c&#43;&#43;/</loc>
+    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/cache/</loc>
+    <loc>http://localhost:1313/tags/cache/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/pipeline/</loc>
+    <loc>http://localhost:1313/tags/pipeline/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/posts/pipeline-processor/</loc>
+    <loc>http://localhost:1313/posts/pipeline-processor/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/processor/</loc>
+    <loc>http://localhost:1313/tags/processor/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/x86/</loc>
+    <loc>http://localhost:1313/tags/x86/</loc>
     <lastmod>2023-12-06T18:33:35+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/dns/</loc>
+    <loc>http://localhost:1313/tags/dns/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/gbn/</loc>
+    <loc>http://localhost:1313/tags/gbn/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/ip/</loc>
+    <loc>http://localhost:1313/tags/ip/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/posts/network-protocols/</loc>
+    <loc>http://localhost:1313/posts/network-protocols/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/ospf/</loc>
+    <loc>http://localhost:1313/tags/ospf/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/tcp/</loc>
+    <loc>http://localhost:1313/tags/tcp/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/udp/</loc>
+    <loc>http://localhost:1313/tags/udp/</loc>
     <lastmod>2023-12-06T14:19:27+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/compiler/</loc>
+    <loc>http://localhost:1313/tags/compiler/</loc>
     <lastmod>2023-12-06T13:22:51+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/java/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
     <lastmod>2023-12-06T13:22:51+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/jdk/</loc>
+    <loc>http://localhost:1313/tags/jdk/</loc>
     <lastmod>2023-12-06T13:22:51+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/posts/mini-java-compiler/</loc>
+    <loc>http://localhost:1313/posts/mini-java-compiler/</loc>
     <lastmod>2023-12-06T13:22:51+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/mhp/</loc>
+    <loc>http://localhost:1313/tags/mhp/</loc>
     <lastmod>2023-11-06T15:19:09+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/tags/optimizations/</loc>
+    <loc>http://localhost:1313/tags/optimizations/</loc>
     <lastmod>2023-11-06T15:19:09+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/posts/program-analysis/</loc>
+    <loc>http://localhost:1313/posts/program-analysis/</loc>
     <lastmod>2023-11-06T15:19:09+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/showcase/about/</loc>
+    <loc>http://localhost:1313/showcase/about/</loc>
     <lastmod>2023-11-05T17:51:36+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/showcase/</loc>
+    <loc>http://localhost:1313/showcase/</loc>
     <lastmod>2023-11-05T17:51:36+05:30</lastmod>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/manifest/index.json</loc>
+    <loc>http://localhost:1313/manifest/index.json</loc>
   </url><url>
-    <loc>https://archaic-mage.vercel.app/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

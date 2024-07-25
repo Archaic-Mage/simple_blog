@@ -1087,8 +1087,9 @@ header.jumbotronContainer {
     img {
         flex-basis: 45%;
         flex-grow: 1;
-        max-width: 100vw;
+        max-width: 350px;
         min-width: 200px;
+        border-radius: 10px;
     }
     h2 {
         font-weight: 300;
