@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Archaic-Mage</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://archaic-mage.vercel.app/posts/</link>
     <description>Recent content in Posts on Archaic-Mage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sohasoham811@gmail.com (Soham Tripathy)</managingEditor>
     <webMaster>sohasoham811@gmail.com (Soham Tripathy)</webMaster>
     <lastBuildDate>Wed, 06 Dec 2023 18:33:35 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archaic-mage.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pipeline Processor</title>
-      <link>http://localhost:1313/posts/pipeline-processor/</link>
+      <link>https://archaic-mage.vercel.app/posts/pipeline-processor/</link>
       <pubDate>Wed, 06 Dec 2023 18:33:35 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
-      <guid>http://localhost:1313/posts/pipeline-processor/</guid>
+      <guid>https://archaic-mage.vercel.app/posts/pipeline-processor/</guid>
       <description>Jan-May 2022 | This is a simulator model for the five stage pipeline processor built in c++.&#xA;Developed a C++ simulation of a single-level Cache, offering Random, LRU, and Pseudo LRU replacement policies. Created a 5-stage Scalar Pipelined processor based on RISC Architecture, leveraging multithreading for parallel stage execution and improved overall performance.</description>
     </item>
     <item>
       <title>Network Protocols</title>
-      <link>http://localhost:1313/posts/network-protocols/</link>
+      <link>https://archaic-mage.vercel.app/posts/network-protocols/</link>
       <pubDate>Wed, 06 Dec 2023 14:19:27 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
-      <guid>http://localhost:1313/posts/network-protocols/</guid>
+      <guid>https://archaic-mage.vercel.app/posts/network-protocols/</guid>
       <description>Jan-May 2023 | This repository contains my work on various computer network projects and implementations. The projects are written in Python and C++.&#xA;The projects are as follows:&#xA;Udp Client/Server Echo Server TCP Client/Server Chat Communication DNS Server Implementation CCITT CRC-8 Implementation GBN Routing protocol Implementation OSPF Routing protocol Implementation Python socket programming C++ socket programming </description>
     </item>
     <item>
       <title>Mini Java Compiler</title>
-      <link>http://localhost:1313/posts/mini-java-compiler/</link>
+      <link>https://archaic-mage.vercel.app/posts/mini-java-compiler/</link>
       <pubDate>Wed, 06 Dec 2023 13:22:51 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
-      <guid>http://localhost:1313/posts/mini-java-compiler/</guid>
+      <guid>https://archaic-mage.vercel.app/posts/mini-java-compiler/</guid>
       <description>Jul-Nov 2022 | Built a fundamental compiler to parse, validate and generate IR for a miniature version of Java language. Adapted a few compiler optimization techniques to improve the execution speed by 1%-2%. </description>
     </item>
     <item>
       <title>Program Analysis</title>
-      <link>http://localhost:1313/posts/program-analysis/</link>
+      <link>https://archaic-mage.vercel.app/posts/program-analysis/</link>
       <pubDate>Mon, 06 Nov 2023 15:19:09 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
-      <guid>http://localhost:1313/posts/program-analysis/</guid>
+      <guid>https://archaic-mage.vercel.app/posts/program-analysis/</guid>
       <description>Jan-May 2023 | In this project, I build three major program analysis tools for a mini-java (qparjava) language whose grammar can be found here&#xA;Alias Analysis: Alias analysis is a technique used in programming languages and compilers to determine if two or more pointers or references in a program can refer to the same memory location.</description>
     </item>
   </channel>

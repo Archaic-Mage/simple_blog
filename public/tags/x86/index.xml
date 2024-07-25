@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>X86 on Archaic-Mage</title>
-    <link>http://localhost:1313/tags/x86/</link>
+    <link>https://archaic-mage.vercel.app/tags/x86/</link>
     <description>Recent content in X86 on Archaic-Mage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sohasoham811@gmail.com (Soham Tripathy)</managingEditor>
     <webMaster>sohasoham811@gmail.com (Soham Tripathy)</webMaster>
     <lastBuildDate>Wed, 06 Dec 2023 18:33:35 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archaic-mage.vercel.app/tags/x86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pipeline Processor</title>
-      <link>http://localhost:1313/posts/pipeline-processor/</link>
+      <link>https://archaic-mage.vercel.app/posts/pipeline-processor/</link>
       <pubDate>Wed, 06 Dec 2023 18:33:35 +0530</pubDate><author>sohasoham811@gmail.com (Soham Tripathy)</author>
-      <guid>http://localhost:1313/posts/pipeline-processor/</guid>
+      <guid>https://archaic-mage.vercel.app/posts/pipeline-processor/</guid>
       <description>Jan-May 2022 | This is a simulator model for the five stage pipeline processor built in c++.&#xA;Developed a C++ simulation of a single-level Cache, offering Random, LRU, and Pseudo LRU replacement policies. Created a 5-stage Scalar Pipelined processor based on RISC Architecture, leveraging multithreading for parallel stage execution and improved overall performance.</description>
     </item>
   </channel>
